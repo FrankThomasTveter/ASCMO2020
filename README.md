@@ -12,7 +12,7 @@ To download HadCRUT4 median global temperature from ESRL data use the command:
 
 # Disclaimer
 
-The author and his affiliation assumes no responsibility or liability for any errors or omissions in the content of this paper. The information contained in this paper is provided <<as is>> basis with no guarantees of completeness, accuracy, usefulness or timeliness and without any warranties of any kind whatsoever, express or implied.
+The author and his affiliation assumes no responsibility or liability for any errors or omissions in the content of this paper. The information contained in this paper is provided *as is* basis with no guarantees of completeness, accuracy, usefulness or timeliness and without any warranties of any kind whatsoever, express or implied.
 
 Best wishes,
  Frank Thomas Tveter
