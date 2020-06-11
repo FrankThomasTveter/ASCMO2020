@@ -1,0 +1,11 @@
+--2020-06-03 07:53:44--  https://crudata.uea.ac.uk/cru/data/temperature/HadCRUT4-gl.dat
+Resolving crudata.uea.ac.uk (crudata.uea.ac.uk)... 139.222.133.100
+Connecting to crudata.uea.ac.uk (crudata.uea.ac.uk)|139.222.133.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31977 (31K) [text/plain]
+Saving to: ‘uea2020-06-03_07-53-44.txt’
+
+     0K .......... .......... .......... .                    100%  416K=0.08s
+
+2020-06-03 07:53:44 (416 KB/s) - ‘uea2020-06-03_07-53-44.txt’ saved [31977/31977]
+

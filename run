@@ -1,0 +1,4 @@
+# --no-save 
+ echo "Analysing data";
+  Rscript analyse.R
+#

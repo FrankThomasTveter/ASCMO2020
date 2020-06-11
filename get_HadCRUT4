@@ -1,0 +1,11 @@
+#
+# Define a timestamp function
+ dtg=`date +"%Y-%m-%d_%H-%M-%S"`
+#
+echo "Getting data from ESRL ($dtg)";
+ wget https://crudata.uea.ac.uk/cru/data/temperature/HadCRUT4-gl.dat -o log.uea -O uea$dtg.txt
+#
+ echo "Washing data ($dtg)";
+ ./wash_uea.pl uea$dtg.txt > uea.txt
+ls -lratatat uea* | tail -2
+#

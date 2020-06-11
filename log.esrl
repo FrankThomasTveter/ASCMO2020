@@ -1,0 +1,18 @@
+--2020-06-03 07:53:30--  ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
+           => ‘esrl2020-06-03_07-53-30.txt’
+Resolving aftp.cmdl.noaa.gov (aftp.cmdl.noaa.gov)... 140.172.200.31
+Connecting to aftp.cmdl.noaa.gov (aftp.cmdl.noaa.gov)|140.172.200.31|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /products/trends/co2 ... done.
+==> SIZE co2_weekly_mlo.txt ... 185021
+==> PASV ... done.    ==> RETR co2_weekly_mlo.txt ... done.
+Length: 185021 (181K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 27%  130K 1s
+    50K .......... .......... .......... .......... .......... 55%  284K 0s
+   100K .......... .......... .......... .......... .......... 83% 9.21M 0s
+   150K .......... .......... ..........                      100%  189K=0.7s
+
+2020-06-03 07:53:33 (248 KB/s) - ‘esrl2020-06-03_07-53-30.txt’ saved [185021]
+
