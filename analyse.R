@@ -148,6 +148,7 @@ pred  <- predict(lmMod,data.frame(x = jj,     x2 = jj*jj, x3 = jj*jj*jj));
 predn <- predict(lmMod,data.frame(x = jjn,    x2 = jjn*jjn, x3 = jjn*jjn*jjn));
 
 co2   <- makeYearlyAverages(jjs,ppms);
+co2$j[1]=0.5;
 
 co2$p  <- predict(lmMod,data.frame( x = co2$j,     x2 = co2$j * co2$j, x3 = co2$j * co2$j * co2$j ));
 
